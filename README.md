@@ -21,10 +21,10 @@
 #### 主要函数：
 
 ```` c++
-1. void inspectAll() // 对已记录窗口的状态进行检测
-2. void sortAll(HWND target) // 对所有窗口的排序方案
-3. void moveAll() // 对所有窗口的移动方案
-4. int main() // 主函数
+1. void inspectAll(){} // 对已记录窗口的状态进行检测
+2. void sortAll(HWND target){} // 对所有窗口的排序方案
+3. void moveAll(){} // 对所有窗口的移动方案
+4. int main(){} // 主函数
 ````
 
 ### 程序目前存在的问题
